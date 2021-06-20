@@ -1,4 +1,5 @@
 {
+    "AC": "Ascension Island",
     "AD": "Andorra",
     "AE": "United Arab Emirates",
     "AF": "Afghanistan",
@@ -202,7 +203,7 @@
     "SD": "Sudan",
     "SE": "Sweden",
     "SG": "Singapore",
-    "SH": "Saint Helena, Ascension and Tristan da Cunha",
+    "SH": "Saint Helena",
     "SI": "Slovenia",
     "SJ": "Svalbard and Jan Mayen Islands",
     "SK": "Slovakia",
@@ -217,6 +218,7 @@
     "SX": "Sint Maarten (Dutch part)",
     "SY": "Syrian Arab Republic",
     "SZ": "Swaziland",
+    "TA": "Tristan da Cunha",
     "TC": "Turks and Caicos Islands",
     "TD": "Chad",
     "TF": "French Southern Territories",
